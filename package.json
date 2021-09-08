@@ -1,0 +1,26 @@
+{
+  "name": "vercel-api-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "vercel dev --debug",
+    "deploy": "vercel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aisen60/vercel-api-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aisen60/vercel-api-example/issues"
+  },
+  "homepage": "https://github.com/Aisen60/vercel-api-example#readme",
+  "devDependencies": {
+    "@vercel/node": "^1.12.1",
+    "typescript": "^4.4.2"
+  }
+}
